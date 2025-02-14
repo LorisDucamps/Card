@@ -13,4 +13,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deploying your project
 
-🚀 My project is deployed [here](https://card-component-self.vercel.app/)
+🚀 My project is deployed [here](https://card-blond.vercel.app/)
